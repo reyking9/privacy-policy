@@ -9,8 +9,5 @@ Esta aplicación es un dictador de bingo por voz que no recopila ningún dato pe
 - No se requiere ningún permiso especial del dispositivo más allá de los necesarios para la reproducción de voz
 - No se utilizan cookies ni tecnologías de seguimiento
 
-## Contacto
-Si tienes alguna pregunta sobre esta política de privacidad, puedes contactarnos en: [tu correo electrónico]
-
 ## Cambios a esta Política
 Nos reservamos el derecho de actualizar nuestra política de privacidad. Te recomendamos revisar esta página periódicamente para cualquier cambio.
